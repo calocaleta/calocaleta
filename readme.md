@@ -17,7 +17,7 @@
 
 | Level | Account | Source Codes | Languages |
 |:---:|---|---|:---:|
-| ![](https://app.codesignal.com/badges/user-level/37.svg) | **[CaloCaleta](https://app.codesignal.com/profile/calocaleta)** | [My Solutions](https://github.com/calocaleta/codesignal-my-solutions) :octocat: | ![](https://app.codesignal.com/user-icons/languages/rb.svg) |
+| ![](https://app.codesignal.com/badges/user-level/38.svg) | **[CaloCaleta](https://app.codesignal.com/profile/calocaleta)** | [My Solutions](https://github.com/calocaleta/codesignal-my-solutions) :octocat: | ![](https://app.codesignal.com/user-icons/languages/rb.svg) |
 
 <br/>
 
